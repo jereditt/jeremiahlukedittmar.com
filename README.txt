@@ -1,6 +1,6 @@
 # jeremiahlukedittmar.com
 
-My personal portfolio site. live at [jeremiahlukedittmar.com](https://jeremiahlukedittmar.com).
+My personal site. live at [jeremiahlukedittmar.com](https://jeremiahlukedittmar.com).
 
 I'm Jeremiah Dittmar, an IT student at Liberty University (Data Networking & Security, '27). This one-pager covers my homelab projects, volunteer work, skills, and contact info.
 
